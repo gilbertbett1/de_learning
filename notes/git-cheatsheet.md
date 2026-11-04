@@ -1,6 +1,6 @@
 # Git Cheatsheet
 
-Personal reference for the Git commands I use while learning data engineering.
+Personal reference for the Git commands.
 
 ## How Git moves my work
 
